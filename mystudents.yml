@@ -1,0 +1,25 @@
+---
+mystudents:
+  - name: veera
+    phno: 905241
+    address:
+      - doorno: 345
+      - streetno: 1st
+      - place: veld
+      - pincode: 522613
+
+  - name: vijju
+    phno: 798947
+    address:
+      - doorno: 346
+      - streetno: 2nd
+      - place: gun
+      - pincod: 522614
+
+  - name: vijji
+    phno: 996356
+    address:
+      - doorno: 347
+      - steertno: 3rd
+      - place: hyb
+      - pincode: 522615
