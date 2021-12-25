@@ -10,7 +10,7 @@
 
     - name: i want to start webserver on ansible ubuntu node
       service:
-        name: "{{mywebpackforredhat}}"
+        name: "{{mywebpackforubuntu}}"
         state: started
       when: ansible_os_family =="Debian"
 
